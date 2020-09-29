@@ -29,13 +29,6 @@ export default (props) => {
   // get data fields
   const title = data.get('title') ? data.get('title') : 'Title'
   const body = widgetFor('body')
-  // const eventInformation = data.get('eventInformation')
-  // const eventGraphics = data.get('eventGraphics')
-  // const eventBranding = data.get('eventBranding')
-  // const eventSchedule = data.get('eventSchedule')
-  // const eventRooms = data.get('eventRooms')
-  // const eventQA = data.get('eventQA')
-  // const eventSettings = data.get('eventSettings')
 
   // eventGraphics
   const lobbyImage = data.getIn(['eventGraphics', 'lobbyImage'])
