@@ -1,5 +1,5 @@
 {
-  "name": "@echo/gatsby-theme-echo",
+  "name": "@getecho/gatsby-theme-echo",
   "description": "Echo Live Conference JAMstack built on GatsbyJS, NetlifyCMS, and FaunaDB.",
   "version": "1.0.0",
   "author": "Kaleb Heitzman <kalebheitzman@gmail.com>",
