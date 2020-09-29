@@ -17,7 +17,7 @@ CMS.init({
 		backend: {
 			name: "github",
 			repo: process.env.GATSBY_NETLIFY_BACKEND,
-			branch: "develop"
+			branch: "master"
 		},
 
 		// configuration file
