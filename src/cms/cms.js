@@ -24,7 +24,7 @@ CMS.init({
 		load_config_file: false,
 
 		// media locations
-		media_folder: "static/assets",
+		media_folder: "content/assets",
 		public_folder: "/assets",
 
 		// collections
