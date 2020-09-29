@@ -1,5 +1,5 @@
 // import libs
-import React from 'React'
+import React from 'react'
 import informal from 'spacetime-informal'
 
 // import css
